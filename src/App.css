@@ -52,12 +52,21 @@ body {
     width: 729px;
     height: 742px;
   }
+
+  .hero-banner{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-left: 5rem;
+    width: 100%;
+  }
+
+  .hero-text{
+    width: 50%;
+  }
   
   .hero-banner-img {
-    position: absolute;
-    right: 0px;
-    top: 110px;
-    width: 919.9px;
+    width: 70%;
     height: 800px;
     margin-top: -330px;
     box-shadow: 10px black;

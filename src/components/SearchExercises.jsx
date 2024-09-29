@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable react/prop-types */
 import { useEffect, useState } from "react";
 import {Button, Stack, TextField, Box, Typography} from "@mui/material";
 import { options, fetchData } from "../utils/fetchData";
@@ -30,7 +32,7 @@ const SearchExercises = ({setExercises, bodyPart, setBodyPart}) => {
   }
 
   return (
-    <Stack alignItems='center' mt='37px' justifyContent='center' p='20px'>
+    <Stack alignItems='center' mt='20rem' justifyContent='center' p='20px'>
       <Typography fontWeight={700} sx={{ fontSize: {lg: '44px', xs: '30px'}}} mb='50px' textAlign='center' >
           Awesome Exercises You <br/> Should know
       </Typography>
@@ -51,11 +53,6 @@ const SearchExercises = ({setExercises, bodyPart, setBodyPart}) => {
             >Search</Button>
 
       </Box> 
-      {/* <Box sx={{ position: 'relative', width: '100%', p: '20px' }}>
-        <HoriontalScrollbar data={bodyParts} bodyParts setBodyPart={setBodyPart} bodyPart={bodyPart} />
-      </Box> */}
-      
-
     </Stack>
   )
 }

@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import "./App.css";
 import { createBrowserRouter,  RouterProvider,  Route,  Link,} from "react-router-dom";
 import { Box } from "@mui/material";
