@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import "./App.css";
-import { createBrowserRouter,  RouterProvider,  Route,  Link,} from "react-router-dom";
+import { createBrowserRouter,  RouterProvider} from "react-router-dom";
 import { Box } from "@mui/material";
 import {Home, ExerciseDetail} from "./pages/index";
 import {Navbar, Footer, Layout} from "./components/index";
