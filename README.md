@@ -24,4 +24,13 @@
 ---
 
 ## Pictures
+<img width="1435" alt="Screenshot 2024-11-06 at 16 47 28" src="https://github.com/user-attachments/assets/d466996d-f26f-4dc1-bbdc-6a16e1ccbd3b">
+
+
+<img width="1356" alt="Screenshot 2024-11-06 at 16 47 53" src="https://github.com/user-attachments/assets/715077e8-73f7-4261-a78d-8915bf5a17d2">
+
+
+<img width="1062" alt="Screenshot 2024-11-06 at 16 49 01" src="https://github.com/user-attachments/assets/0e1c1238-0d14-4157-a145-9578e3c599bc">
+
+
 
