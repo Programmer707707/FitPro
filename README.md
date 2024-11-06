@@ -1,8 +1,27 @@
-# React + Vite
+# FitPro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**FitPro** is a responsive fitness application built using **React**, **Rapid API**, and **Material UI**. This project provides a user-friendly and efficient interface for fitness enthusiasts to access various fitness-related resources and data. With a focus on performance and usability, the app fetches data using Rapid API and includes pagination to efficiently handle large datasets.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Responsive Design**: Built with Material UI for a sleek, modern, and mobile-friendly interface.
+- **Data Fetching**: Integrated with Rapid API to fetch fitness-related data in real time.
+- **Pagination**: Implemented pagination to manage large datasets effectively and improve user experience.
+- **Navigation**: Utilized React Router v6.4 for smooth and intuitive navigation.
+
+---
+
+## Technologies Used
+
+- **JavaScript**
+- **ReactJS**
+- **Rapid API**
+- **Material UI**
+- **React Router v6.4**
+
+---
+
+## Pictures
+
